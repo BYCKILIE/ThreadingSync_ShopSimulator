@@ -1,0 +1,148 @@
+Time 0
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); (4, 5, 4); 
+Queue1: closed
+Queue2: closed
+
+Time 1
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); (4, 5, 4); 
+Queue1: closed
+Queue2: closed
+
+Time 2
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); (4, 5, 4); 
+Queue1: closed
+Queue2: closed
+
+Time 3
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); (4, 5, 4); 
+Queue1: closed
+Queue2: closed
+
+Time 4
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); (4, 5, 4); 
+Queue1: closed
+Queue2: closed
+
+Time 5
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); 
+Queue1: (4, 5, 4); 
+Queue2: closed
+
+Time 6
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); 
+Queue1: (4, 5, 3); 
+Queue2: closed
+
+Time 7
+Waiting clients: (1, 23, 3); (2, 26, 2); (3, 8, 4); 
+Queue1: (4, 5, 2); 
+Queue2: closed
+
+Time 8
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: (4, 5, 1); 
+Queue2: (3, 8, 4); 
+
+Time 9
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: (3, 8, 3); 
+
+Time 10
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: (3, 8, 2); 
+
+Time 11
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: (3, 8, 1); 
+
+Time 12
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 13
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 14
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 15
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 16
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 17
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 18
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 19
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 20
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 21
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 22
+Waiting clients: (1, 23, 3); (2, 26, 2); 
+Queue1: closed
+Queue2: closed
+
+Time 23
+Waiting clients: (2, 26, 2); 
+Queue1: (1, 23, 3); 
+Queue2: closed
+
+Time 24
+Waiting clients: (2, 26, 2); 
+Queue1: (1, 23, 2); 
+Queue2: closed
+
+Time 25
+Waiting clients: (2, 26, 2); 
+Queue1: (1, 23, 1); 
+Queue2: closed
+
+Time 26
+Waiting clients: none
+Queue1: (2, 26, 2); 
+Queue2: closed
+
+Time 27
+Waiting clients: none
+Queue1: (2, 26, 1); 
+Queue2: closed
+
+For Test No.<1> with parameters: |4 Clients| -- |2 CheckOuts| -- |60 MaxDuration|
+Program Stats:
+    -> 4 (clients) - served
+    -> 28 (seconds) - time spent serving
+    -> 3.50 (seconds) - average waiting time per client
+    -> 3.25 (seconds) - average service time per client
+    -> 8 (time) - peek hour
+Note<Store served all clients>
